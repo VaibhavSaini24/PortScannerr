@@ -46,11 +46,3 @@ Enter end port: 80
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo, open issues, or submit pull requests.
-
-## 📄 License
-
-MIT License
-
----
-
-Let me know if you’d like to include more details or have a specific usage example/code snippet!
